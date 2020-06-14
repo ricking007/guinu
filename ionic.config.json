@@ -1,0 +1,7 @@
+{
+  "name": "guinu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

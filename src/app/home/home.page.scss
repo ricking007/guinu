@@ -34,6 +34,13 @@ text-align: center;
 color: #373639;
 }
 
+ion-button{
+  margin-top: -15px;
+  --background: #fec200;
+  --background-activated:#373639;
+  --color-activated:  #ffffff;
+}
+
 .svg {
   /* Vector */
  font-size: 100px;
